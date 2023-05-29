@@ -1,1 +1,1 @@
-Hello this project has a frontend microservice enabled
+Hello this project has a frontend microservice enabling
