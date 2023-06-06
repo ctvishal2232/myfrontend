@@ -1,1 +1,1 @@
-This is all about calling payment gateway API
+This is all about calling payment gateway APIs
